@@ -1,4 +1,4 @@
 # Random
-selection difficulty？ try it！
+rescue your selection difficulty!
 
-concrete effect? see https://timelordregeneration10.github.io/Random
+try on https://timelordregeneration10.github.io/Random
